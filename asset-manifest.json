@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/coctails-react/static/css/main.a7aae62a.css",
+    "main.js": "/coctails-react/static/js/main.fa601301.js",
+    "static/media/daiquiri.jpg": "/coctails-react/static/media/daiquiri.5f85ad92ed8783342d72.jpg",
+    "static/media/glintwine.jpg": "/coctails-react/static/media/glintwine.87fe795f157cee97c4db.jpg",
+    "static/media/jagermonstr.jpg": "/coctails-react/static/media/jagermonstr.c78b74e7e382e2fd77ec.jpg",
+    "static/media/bellini.jpg": "/coctails-react/static/media/bellini.cebd12535ff3275a1409.jpg",
+    "static/media/bi.jpg": "/coctails-react/static/media/bi.6f65da9e370d33bf69e1.jpg",
+    "static/media/gin-tonic.jpg": "/coctails-react/static/media/gin-tonic.2f731d7c5ba3d2a01f86.jpg",
+    "static/media/pina-colada.jpg": "/coctails-react/static/media/pina-colada.3bca3c8e6d5951b6d348.jpg",
+    "static/media/mimosa.jpg": "/coctails-react/static/media/mimosa.4b3ede0159bb948cde79.jpg",
+    "static/media/cosmopolitan.jpg": "/coctails-react/static/media/cosmopolitan.c2be876cfe41df9bea83.jpg",
+    "static/media/white-russian.jpg": "/coctails-react/static/media/white-russian.19500891bce7089ffc2f.jpg",
+    "static/media/campari-tonic.jpg": "/coctails-react/static/media/campari-tonic.1578e3493cfce831dffc.jpg",
+    "static/media/Balmy Beta.ttf": "/coctails-react/static/media/Balmy Beta.af91685f66571daaaff0.ttf",
+    "static/media/manhattan.jpg": "/coctails-react/static/media/manhattan.8e6579b31a0620ca03a0.jpg",
+    "static/media/negroni.jpg": "/coctails-react/static/media/negroni.307702105b5bbdf92b31.jpg",
+    "static/media/bloody-mary.jpg": "/coctails-react/static/media/bloody-mary.0d137be43b15461ac67e.jpg",
+    "static/media/b-52.jpg": "/coctails-react/static/media/b-52.5863fc20c79e4b38bdf5.jpg",
+    "static/media/tequila-sunrise.jpg": "/coctails-react/static/media/tequila-sunrise.7c9c29ed86939da7fc8a.jpg",
+    "static/media/blue-lagoon.jpg": "/coctails-react/static/media/blue-lagoon.bb765ebae91f2e50155c.jpg",
+    "static/media/jagerbomb.jpg": "/coctails-react/static/media/jagerbomb.008313c1ed9f68fe279b.jpg",
+    "static/media/logo.jpg": "/coctails-react/static/media/logo.29842673357e96073242.jpg",
+    "static/media/cuba-libre.jpg": "/coctails-react/static/media/cuba-libre.4cc3588a28acd51b00ec.jpg",
+    "static/media/whiskey-cola.jpg": "/coctails-react/static/media/whiskey-cola.e9a522216fe4a6dd2720.jpg",
+    "static/media/mojito.jpg": "/coctails-react/static/media/mojito.dafe7e9f14977126d1e9.jpg",
+    "static/media/aperol-spritz.jpg": "/coctails-react/static/media/aperol-spritz.f0874b9b1cd289f2034c.jpg",
+    "index.html": "/coctails-react/index.html",
+    "main.a7aae62a.css.map": "/coctails-react/static/css/main.a7aae62a.css.map",
+    "main.fa601301.js.map": "/coctails-react/static/js/main.fa601301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7aae62a.css",
+    "static/js/main.fa601301.js"
+  ]
+}

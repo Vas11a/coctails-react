@@ -1,0 +1,133 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(./../../imgs/bi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    padding: 15px;
+    position: relative;
+}
+
+.title {
+    font-family: 'Balmy';
+    font-size: 50px;
+}
+
+.contetnt {
+    padding-top: 40px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-left: -22px;
+    align-items: center;
+}
+
+.button_block {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    padding: 7px 10px;
+    width: 220px;
+    color: black;
+    font-family: 'Open Sans';
+    text-decoration: none;
+    border: 4px solid #624528;
+    background-color: #B9824B;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 7px;
+    margin-top: -3px;
+    transition-duration: .5s;
+
+    &:hover {
+        background-color: #624528;
+    }
+}
+
+.logo_block {
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    outline: 5px solid black;
+}
+
+.block_gitHub {
+    margin: 0 auto;
+    position: absolute;
+    bottom: 30px;
+    left: calc(50% - 25px);
+}
+
+.gitHub {
+    width: 50px;
+    height: 50px;
+}
+
+
+@media screen and (min-width: 600px) {
+    .title {
+        font-size: 55px;
+    }
+
+    .contetnt {
+        padding-top: 60px;
+    }
+
+    .button {
+        width: 300px;
+        padding: 12px 20px;
+        font-size: 30px;
+    }
+
+    .logo_block {
+        width: 80px;
+        height: 80px;
+    }
+
+    .logo {
+        width: 80px;
+        height: 80px;
+    }
+
+}
+
+@media screen and (min-width: 900px) {
+    .contetnt {
+        flex-direction: column;
+        justify-content: center;
+        margin-left: -0;
+        gap: 20px;
+        padding-top: 50px;
+    }
+
+    .title {
+        text-align: center;
+    }
+
+    .button {
+        border-radius: 0;
+        width: 400px;
+        font-size: 40px;
+        border: 5px solid #624528;
+        border-radius: 10px;
+    }
+
+    .logo_block {
+        width: 100px;
+        height: 100px;
+    }
+
+    .logo {
+        width: 100px;
+        height: 100px;
+    }
+}

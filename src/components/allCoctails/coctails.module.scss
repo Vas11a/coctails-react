@@ -1,0 +1,97 @@
+.container {
+    width: 100%;
+    background-image: url(./../../imgs/bi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    padding: 15px;
+    position: relative;
+}
+
+.title {
+    font-family: 'Balmy';
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.see_more{
+    font-weight: bold;
+    padding: 5px 10px;
+    font-size: 30px;
+    background-color: #B9824B;
+    border: 4px solid #624528;
+    border-radius: 10px;
+    transition-duration: .5s;
+    cursor: pointer;
+    &:hover{
+        background-color: #624528;
+    }
+}
+
+.container_coctail{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.button_block{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+// block coctail
+
+.block_coctail{
+    padding: 20px;
+    width: 350px;
+    border-radius: 30px;
+    border: 5px solid #624528;
+    background-color: #B9824B;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.photo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.ingridiets{
+    width: 100%;
+}
+
+.name{
+    font-size: 35px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+}
+
+.line{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-family: 'Open Sans';
+}
+
+span{
+    font-size: 27px;
+}
+
+@media screen and (min-width: 780px){
+    .title{
+        font-size: 55px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .title {
+        font-size: 60px;
+    }
+}
